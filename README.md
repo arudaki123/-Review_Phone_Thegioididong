@@ -12,8 +12,10 @@ Hiện nay việc điện thoại là vật dụng tất yếu của cuộc số
 - activate skin :   source activate review
 
 # 4. chạy model
-- craw-data.ipynb
-- train_predict.ipynb
+- craw dữ liệu từ web thegioididong.com
+  - craw-data.ipynb
+- train và dự đoán kết quả
+  - train_predict.ipynb
 
 # 5. Tài liệu tham khảo
 
