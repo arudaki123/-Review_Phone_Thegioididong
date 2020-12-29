@@ -14,3 +14,11 @@ Hiện nay việc điện thoại là vật dụng tất yếu của cuộc số
 # 4. chạy model
 - craw-data.ipynb
 - train_predict.ipynb
+
+# 5. Tài liệu tham khảo
+
+- Tham khảo các tài liệu từ các notebook có sẳn trên Kaggle
+
+- https://gate.ac.uk/sale/nle-svm/svm-ie.pdf
+
+- http://aurelieherbelot.net/resources/slides/teaching/SVMs.pdf
